@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Param Stage Test Automation Test Suite]">
+  <test name="Param Stage Test Cases(failed)">
+    <classes>
+      <class name="com.param.qa.testcases.SignUpPageTestCase">
+        <methods>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+          <include name="entertheData"/>
+        </methods>
+      </class> <!-- com.param.qa.testcases.SignUpPageTestCase -->
+    </classes>
+  </test> <!-- Param Stage Test Cases(failed) -->
+</suite> <!-- Failed suite [Param Stage Test Automation Test Suite] -->

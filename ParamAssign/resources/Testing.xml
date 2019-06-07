@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Param Stage Test Automation Test Suite">
+
+	<test name="Param Stage Test Cases">
+		<classes>
+			<class name="com.param.qa.testcases.HomePageTestcase"></class>
+			<class name="com.param.qa.testcases.SignUpPageTestCase"></class>
+		</classes>
+	</test>
+</suite>

@@ -6,6 +6,7 @@
 		<classes>
 			<class name="com.param.qa.testcases.HomePageTestcase"></class>
 			<class name="com.param.qa.testcases.SignUpPageTestCase"></class>
+			<class name="com.param.qa.testcases.ProfileDataFillTestCase"></class>
 		</classes>
 	</test>
 </suite>
